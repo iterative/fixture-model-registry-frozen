@@ -17,3 +17,6 @@ gto-only:
   path: models/churn.pkl
   type: model
   virtual: false
+gto-other-branch-annotated:
+  path: s3://path/some
+  type: model
